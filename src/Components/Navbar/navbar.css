@@ -1,0 +1,9 @@
+.navbar{
+    background-color: transparent;
+}
+.btn-navbar{
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 0.5rem;
+}
